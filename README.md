@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  🎓 Undergraduate Student in Autonomous @ HITSZ&nbsp;&nbsp;<br>
+  🎓 Undergraduate Student in Automation @ HITSZ&nbsp;&nbsp;<br>
   🧠 Building Multimodal and Embodied AI Systems  
 </p>
